@@ -1,0 +1,12 @@
+{
+Name: Circle1
+Radius: 4.0
+Area: 50.26548245743669
+Perimeter:  25.132741228718345
+}
+{
+Name: Circle2
+Radius: 2.0
+Area: 12.566370614359172
+Perimeter:  12.566370614359172
+}
